@@ -27,7 +27,7 @@ API docs: https://tweetfeed.live/api/
 ### Preview
 ---
 
-![iocaw](images/iocaw1.png)
+![iocaw](images/iocaw2.png)
 
 ---
 
