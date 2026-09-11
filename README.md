@@ -20,6 +20,14 @@ is malicious. Do not browse live IOC URLs from a normal browser.
 
 API docs: https://tweetfeed.live/api/
 
+
+### Preview
+---
+
+![iocaw](images/iocaw1.png)
+
+---
+
 ## Install
 
 ```bash
